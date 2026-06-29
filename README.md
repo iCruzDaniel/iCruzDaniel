@@ -95,27 +95,17 @@ Mi portafolio personal —construido con **React + Vite + SCSS**— reúne mis p
 
 **Lenguajes**
 <br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,arduino&theme=dark" />
 
 **Frameworks & Librerías**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vue,laravel,bootstrap,fastapi&theme=dark" />
 
 **DevOps & Cloud**
 <br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,ansible,linux&theme=dark" />
+<br/>
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 </div>
@@ -132,10 +122,6 @@ Mi portafolio personal —construido con **React + Vite + SCSS**— reúne mis p
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=iCruzDaniel&theme=dark&hide_border=true&background=191d2b&ring=27AE60&fire=27AE60&currStreakLabel=27AE60" alt="GitHub Streak" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=iCruzDaniel&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
 </div>
 
