@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iCruzDaniel/portfolio/main/img/circuito-green.png" width="90" alt="logo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191d2b,100:27AE60&height=220&section=header&text=Daniel%20Cruz&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20%26%20Systems%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20DevOps&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
-# Daniel Cruz
-
-### Mechatronics & Systems Engineer · Full-Stack Developer · AI & DevOps
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=27AE60&center=true&vCenter=true&width=600&lines=Mezclando+hardware+y+software+desde+Cartagena%2C+Colombia;Construyendo+soluciones+con+impacto+social;React+%7C+Python+%7C+Docker+%7C+IA+%7C+Robotica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=27AE60&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Mezclando+hardware+y+software+desde+Cartagena%2C+Colombia;Construyendo+soluciones+con+impacto+social;React+%7C+Python+%7C+Docker+%7C+IA+%7C+Robotica" alt="Typing SVG" />
 
 <br/>
 
@@ -142,3 +138,5 @@ Mi portafolio personal —construido con **React + Vite + SCSS**— reúne mis p
 ![Visitas](https://komarev.com/ghpvc/?username=iCruzDaniel&color=27AE60&style=flat&label=Visitas)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:27AE60,100:191d2b&height=120&section=footer" width="100%" alt="footer banner"/>
