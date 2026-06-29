@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191d2b,100:27AE60&height=220&section=header&text=Daniel%20Cruz&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20%26%20Systems%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20DevOps&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/iCruzDaniel/portfolio/main/img/circuito-green.png" width="90" alt="logo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=27AE60&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Mezclando+hardware+y+software+desde+Cartagena%2C+Colombia;Construyendo+soluciones+con+impacto+social;React+%7C+Python+%7C+Docker+%7C+IA+%7C+Robotica" alt="Typing SVG" />
+# Daniel Cruz
+
+### Mechatronics & Systems Engineer · Full-Stack Developer · AI & DevOps
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=27AE60&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Mezclando+hardware+y+software+desde+Cartagena%2C+Colombia;Construyendo+soluciones+con+impacto+social;React+%7C+Python+%7C+Docker+%7C+IA+%7C+Robotica" alt="Typing SVG" />
 
 <br/>
 
@@ -25,6 +29,16 @@ Ingeniero en **Mecatrónica** con doble titulación en **Ingeniería de Sistemas
 - 🛠️ Construyo desde firmware para robots hasta infraestructura cloud
 - 🌱 Aprendiendo continuamente sobre IA aplicada y arquitecturas DevOps
 - 📍 Cartagena, Colombia &nbsp;·&nbsp; 🗣️ Español / English
+
+<br/>
+
+<div align="center">
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" alt="YOLO"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="60" alt="Quickdraw"/>
+
+</div>
 
 <br/>
 
@@ -117,7 +131,11 @@ Mi portafolio personal —construido con **React + Vite + SCSS**— reúne mis p
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iCruzDaniel&theme=dark&hide_border=true&background=191d2b&ring=27AE60&fire=27AE60&currStreakLabel=27AE60" alt="GitHub Streak" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=iCruzDaniel&theme=dark&hide_border=true&background=191d2b&ring=27AE60&fire=27AE60&currStreakLabel=27AE60" alt="GitHub Streak" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iCruzDaniel&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
 </div>
 
@@ -135,8 +153,10 @@ Mi portafolio personal —construido con **React + Vite + SCSS**— reúne mis p
 
 <br/>
 
+### *"Siempre hay un proyecto nuevo en construcción"* 🚧
+
+<br/>
+
 ![Visitas](https://komarev.com/ghpvc/?username=iCruzDaniel&color=27AE60&style=flat&label=Visitas)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:27AE60,100:191d2b&height=120&section=footer" width="100%" alt="footer banner"/>
